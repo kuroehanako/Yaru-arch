@@ -2,8 +2,15 @@
 Yaru theme with Arch Linux colors
 
 
-Support On
+# Compatible with
 
  - GNOME
  - Cinnamon
  - Budgie
+
+# Screenshots
+
+ - GNOME
+ - Cinnamon
+ - Cinnamon Dark
+ - Cinnamon Light
