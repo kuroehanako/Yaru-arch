@@ -3,6 +3,9 @@
 
 Yaru theme with Arch Linux colors
 
+# Install
+
+ - 
 
 # Compatible with
 
