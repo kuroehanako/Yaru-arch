@@ -5,7 +5,7 @@
    version="1"
    id="svg53"
    sodipodi:docname="org.gnome.Software.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="15.145833"
-     inkscape:cx="23.966988"
-     inkscape:cy="24"
-     inkscape:window-width="1852"
-     inkscape:window-height="1052"
-     inkscape:window-x="68"
-     inkscape:window-y="28"
+     inkscape:zoom="5.3548606"
+     inkscape:cx="23.436651"
+     inkscape:cy="3.361432"
+     inkscape:window-width="1850"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg53" />
   <defs
@@ -191,6 +191,20 @@
      stroke-width="2"
      id="path51"
      style="stroke:#666666;stroke-opacity:1" />
+  <path
+     id="rect1134-7"
+     style="fill:#333333;fill-opacity:1;stroke-width:1.06356;opacity:0.4"
+     d="m 11.656277,21.623 h 7.137168 c 0.793005,0 1.431416,0.638411 1.431416,1.431416 v 7.137168 c 0,0.793004 -0.638411,1.431416 -1.431416,1.431416 h -7.137168 c -0.793005,0 -1.431416,-0.638412 -1.431416,-1.431416 v -7.137168 c 0,-0.793005 0.638411,-1.431416 1.431416,-1.431416 z" />
+  <path
+     id="path1840-5"
+     style="opacity:0.4;fill:#333333;fill-opacity:1;stroke-width:0.921464"
+     d="m 34.88847,18.859 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
+  <path
+     id="path2618-9"
+     style="fill:#333333;fill-opacity:1;opacity:0.4"
+     inkscape:transform-center-x="1.109969"
+     inkscape:transform-center-y="0.0071087258"
+     d="m 33.814726,38.915159 c 0.860702,-0.493882 0.884432,-9.424864 0.02637,-9.923313 -0.858066,-0.498449 -8.604388,3.946491 -8.607025,4.938823 -0.0026,0.992331 7.719956,5.478373 8.580659,4.98449 z" />
   <path
      id="rect1134"
      style="fill:url(#linearGradient1312);stroke-width:1.06356"

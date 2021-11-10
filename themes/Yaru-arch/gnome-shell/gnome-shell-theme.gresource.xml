@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/shell/theme">
+    <file>calendar-today.svg</file>
+    <file>carousel-arrow-back-24-symbolic.svg</file>
+    <file>carousel-arrow-next-24-symbolic.svg</file>
+    <file>checkbox.svg</file>
+    <file>checkbox-dark.svg</file>
+    <file>checkbox-focused.svg</file>
+    <file>checkbox-focused-dark.svg</file>
+    <file>checkbox-off.svg</file>
+    <file>checkbox-off-dark.svg</file>
+    <file>checkbox-off-focused.svg</file>
+    <file>checkbox-off-focused-dark.svg</file>
+    <file>toggle-off.svg</file>
+    <file>toggle-on.svg</file>
+    <file>toggle-on-hc.svg</file>
+    <file>toggle-off-hc.svg</file>
+    <file>toggle-off-intl.svg</file>
+    <file>toggle-on-intl.svg</file>
+    <file>toggle-off-dark.svg</file>
+    <file>toggle-on-dark.svg</file>
+    <file>process-working.svg</file>
+    <file>workspace-placeholder.svg</file>
+    <file>ws-switch-arrow-down.svg</file>
+    <file>ws-switch-arrow-up.svg</file>
+    <file>lockscreen-gradient.svg</file>
+    <file>logged-in-indicator.svg</file>
+    <file>noise-texture.png</file>
+    <file>no-events.svg</file>
+    <file>no-notifications.svg</file>
+    <file>color-pick.svg</file>
+    <file>eye-not-looking-symbolic.svg</file>
+    <file>eye-open-negative-filled-symbolic.svg</file>
+    <file>keyboard-caps-lock-filled-symbolic.svg</file>
+    <file>keyboard-enter-symbolic.svg</file>
+    <file>keyboard-hide-symbolic.svg</file>
+    <file>keyboard-layout-filled-symbolic.svg</file>
+    <file>keyboard-shift-filled-symbolic.svg</file>
+    <file>message-indicator-symbolic.svg</file>
+    <file>preview-close-symbolic.svg</file>
+    <file>summary-counter.svg</file>
+    <file>pointer-double-click-symbolic.svg</file>
+    <file>pointer-drag-symbolic.svg</file>
+    <file>pointer-primary-click-symbolic.svg</file>
+    <file>pointer-secondary-click-symbolic.svg</file>
+    <file>pad-osd.css</file>
+    <file>gnome-shell.css</file>
+  </gresource>
+</gresources>
